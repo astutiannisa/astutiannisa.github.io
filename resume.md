@@ -1,5 +1,6 @@
 # Annisa Widia Astuti
 Mahasiswa Ilmu Komputer IPB  
+
 *Perumahan Selasah Indah Bok D/18, Muaro, Sijunjung*  
 *+62 852-7470-2142*  
 *astuti_annisa@apps.ipb.ac.id*
