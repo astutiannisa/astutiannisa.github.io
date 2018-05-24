@@ -1,12 +1,12 @@
 # Annisa Widia Astuti
-Mahasiswa Ilmu Komputer IPB\
-*Perumahan Selasah Indah Bok D/18, Muaro, Sijunjung*\
-*+62 852-7470-2142*\
-*astuti_annisa@apps.ipb.ac.id*\
+Mahasiswa Ilmu Komputer IPB \
+*Perumahan Selasah Indah Bok D/18, Muaro, Sijunjung* \
+*+62 852-7470-2142* \
+*astuti_annisa@apps.ipb.ac.id* \
 ## Pendidikan
 
 ### Institut Pertanian Bogor
-Sept 2017 -- Sekarang\
+Sept 2017 -- Sekarang \
 Ilmu Komputer
 	
 ### SMA Negri 1 Padang Panjang
